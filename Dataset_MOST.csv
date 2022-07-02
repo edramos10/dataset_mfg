@@ -1,0 +1,110 @@
+Descripcion del proceso,Cadena MOST,Category,Standard_Time
+"Tomar radio , sacar de la bolsa y tirar basura",A1B0G1M3 A1,Sacar Objeto de bolsa,2.16
+Colocar radioboard en charola,A1B0G1 A1B0 A1B0P0,Colocar objeto sobre algo,1.44
+Empujar charola,A1B0G1 M1,Empujar Objeto,1.08
+Ir a estacion thumbturn,A4,Caminar,1.44
+Tomar paloma y colocar en nido,A1B0G1 A1B0P1,Tomar Objeto Y Colocar,1.44
+"Tomar escutcheon, desenvolver y tirar basura",A1B0G1 A1B0 AB0P1,Tomar Objeto Y Colocar,1.44
+Aplicar VICG,X20,Observar,2.16
+Colocar en nido,A1B0P1,Colocar objeto sobre algo,0.72
+Tomar dos washas y colocarlas,A1B0G3 A1B0P3,Tomar Objeto Y Colocar,2.88
+Accionar maquina,A1M1A1,Accionar Maquina,1.44
+Tiempo de proceso,X11,Tiempo de proceso,3.14
+Regresar a posicion inicial,A6,Caminar,2.16
+"Tomar escutcheon, realizar prueba funcional",A1B0G1 A1 M3,Tomar Objeto y Manipular,2.16
+Colocar escutcheon en charola,A1B0G1A1P3,Tomar Objeto Y Colocar,2.16
+"Tomar escaner, escanear mainboard y radio",A1B0G1 M1I1 M1I1,Tomar Escaner y Escanear Objeto,0.72
+Dejar escaner,A1B0P1,Colocar objeto sobre algo,0.36
+Colocar radio y mainboard en maquina,A0B0G1A1P3,Colocar objeto sobre algo,1.08
+Accionar maquina,A1B0G1 M1 ,Accionar Maquina,0.54
+Tiempo de proceso,X190,Tiempo de proceso,16
+Retirar Escudo,A1G1A1P3,Tomar Objeto,1.08
+Empujar charola ,A0B0G1 M1 A1,Empujar Objeto,0.54
+"Tomar escaner, escanear mainboard y radio",A1B0G1 M1I1 M1I1,Tomar Escaner y Escanear Objeto,0.72
+Dejar escaner,A1B0P1,Colocar objeto sobre algo,0.36
+Colocar radio y mainboard en maquina,A0B0G1A1P3,Colocar objeto sobre algo,1.08
+Accionar maquina,A1B0G1 M1 ,Accionar Maquina,0.54
+Tiempo de proceso,X190,Tiempo de proceso,16
+Retirar Escudo,A1G1A1P3,Tomar Objeto,1.08
+Empujar charola ,A0B0G1 M1 A1,Empujar Objeto,0.54
+Tomar etiqueta y pegar en faceplate,A1G1A1P3,Tomar Objeto y Manipular,2.16
+Colocar en nido de maquina y accionar,A1B0P1 A0M1,Colocar objeto sobre algo y activar,1.08
+Tiempo de proceso,X42,Tiempo de proceso,11
+Tomar escutcheon y colocar en nido girando la pieza 180 grados,A1B0G1 A1B0P1 ,Tomar Objeto Y Colocar,2.16
+Colocar en nido de maquina y accionar,A1B0P1 A0M1,Colocar objeto sobre algo y activar,1.08
+Tomar escutcheon y colocar en charola,A1B0G1 A1B0P1 ,Tomar Objeto Y Colocar,1.44
+Tomar tornillo y desarmador,A1B0G3 A1,Tomar Objeto,1.8
+"Atornillar backplate, dejar desarmador",P3F3 A1B0P0,Ensamblar algo y soltar,2.52
+Voltear backplate,A1B0G1 M1,Colocar objeto sobre algo,1.08
+"Tomar etiqueta de charola y colocar, tirar basura",A1B0G1 A1B0P3 ,Tomar Objeto Y Colocar,2.16
+"Tomar paloma y washa, juntar",A1B0G1 A1B0P1,Tomar Objeto y Manipular,2.16
+Colocar en nido de maquina,A1B0P3,Colocar objeto,2.16
+Tomar escutcheon y colocar en nido,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Tomar washas y colocar en nido,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Accionar maquina,A1M1,Accionar Maquina,0.72
+Tiempo de proceso,X8,Tiempo de proceso,2.88
+"Tomar escutcheon, realizar prueba funcional",A1B0G1 A1 M3,Tomar Objeto y Manipular,2.16
+Colocar en charola,A1B0P3,Colocar objeto sobre algo,2.16
+Empujar charola,A1B0G3 M1 ,Empujar Objeto,1.8
+Tomar motor girar cables y colocar,A1B0G1 A1B0P3 A1B0P3,Tomar Objeto y Manipular,3.6
+Tomar antidrill plate y colocar,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Tomar moving wall y colocar,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Tomar adaptor y colocar,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+"Tomar cam y componente, juntar",A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Tomar pin y spring y juntar,A1B0G1 A1B0P3 A1B0P3,Tomar Objeto Y Colocar,3.6
+Juntar los cuatro componentes y colocar,A1G1P3,Tomar Objeto Y Colocar,2.16
+Tomar harness y colocar,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Tomar backplate y colocar,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Tomar driver bar y colocar,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Tomar 4 tornillos y desarmador,A1B0G3A1,Tomar Objeto Y Colocar,2.16
+"Atornillar, dejar desarmador",(P1F3 A1B0P0)4,Tomar Objeto y Atornillar,3.6
+Empujar charola,A1B0G3 M1 ,Empujar Objeto,2.16
+Tomar subensamble y Escanar,A3B0G3 M1I1,Tomar Objeto y Manipular,2.88
+Colocar en nido de maquina y conectar,A1B0P3 ,Tomar Objeto y Manipular,1.44
+Accionar maquina,A1M1,Accionar Maquina,0.72
+Tiempo de proceso,X180,Tiempo de proceso,18
+Tomar subensamble y colocar en charola,A1B0G3 A1B0P3,Tomar Objeto Y Colocar,2.88
+Empujar charola,A1P1,Empujar Objeto,0.72
+Tomar subensamble y Escanar,A3B0G3 M1I1,Tomar Objeto y Escanar,2.88
+Colocar en nido de maquina y conectar,A1B0P3 ,Tomar Objeto y Colocar,1.44
+Cerrar safety guard,A1G1A1P1,Tomar Objeto y Manipular,1.44
+Tiempo de proceso,X180,Tiempo de proceso,15
+Abrir safety guard,A1G1A1P1,Tomar Objeto y Manipular,1.44
+Tomar subensamble y Colocar en Charola,A3B0G3 M1I1,Tomar Objeto y Colocar,2.88
+Jalar charola,A1B0G1 M1,Jalar Objeto,1.08
+Tomar subensamble y Escanar,A3B0G3 M1I1,Tomar Objeto y Escanear,2.88
+Colocar en nido de maquina y conectar,A1B0P3 ,Tomar Objeto y Manipular,1.44
+Tiempo de proceso,X180,Tiempo de proceso,16
+Tomar subensamble y Colocar en Charola,A3B0G3 M1I1,Tomar Objeto y Colocar,2.88
+Jalar charola,A1B0G1 M1,Jalar Objeto,1.08
+Colocar charola de empaque en la mesa,A1B0G1 A1B0P1,Tomar Objeto Y Colocar,1.44
+Tomar pasadores y colocar en charola,A1B0G1 A1B0P1,Tomar Objeto Y Colocar,1.44
+"Tomar accesorios, escanear y colocar en charola",A1B0G1 M1I1 A1B0P1,Tomar Objeto Y Colocar,2.16
+"Tomar escutcheon interior, escanear ",A1B0G1 M1I1 A1B0P1,Tomar Objeto y Escanear,2.16
+"Colocar en bolsa, envolver y colocar en charola ",A1B0P3 G1 M1 A1,"Tomar Objeto, Envolver y Colocar",2.52
+"Tocar en pantalla dibujo acabado, dibujo acabado, palanca acabado y palanca acabado ",A2B0G8 A6B0P0,Tocar Objeto en Pantalla y Validar,2.88
+"Tomar battery holder, escanear y colocar en charola",A1B0G1 M1I1 A1B0P1,"Tomar Objeto, escanear y Colocar",2.16
+Tomar etiqueta y colocar en escutheon ,A1B0G1 A1B0P3,Tomar Objeto Y Colocar,2.16
+Tomar escutcheon y juntar con battery holder,A1B0G1 A1B0P3,Tomar Objeto y Manipular,2.16
+Colocar en bolsa y envolver,A1B0P3 G1 M1 A1,Tomar Objeto Y Colocar,2.52
+"Tomar ambas partes de cerradura y juntar, colocar en base",A1B0G1 A1B0P3 A1B0P1,Tomar Objeto y Manipular,2.88
+Llevar charola a estacion 1,A1B0G1 A6B0P1 A6,Caminar,2.7
+"Tomar shipper, colocar en base y armar",A1B0G1 A1B0P1 M3,"Tomar Objeto, Colocar y Ensamblar",2.52
+Colocar tape,A1B0G1 A1B0P1 M3 ,Tomar Objeto y Colocar,2.52
+Voltear caja,A1B0G1 M1,Tomar Objeto y Colocar,1.08
+Tomar caja indivdual y colocar en riel,A1B0G1 A1 ,Tomar Objeto y Colocar,1.08
+Armar caja por ambos lados,A1B0G1 M6 A1P1,Tomar Objeto y Colocar,3.24
+Tomar base y colocar en caja,A1B0G1 M1 A1B0P1 M1,Tomar Objeto y Colocar,3.24
+"Tomar accesorios, escanear y colocar en caja",A1B0G1 M1I1 A1B0,"Tomar Objeto, escanear y Colocar",1.8
+"Tomar instructivo, escanear y colocar en caja",A1B0G1 M1P1A1,"Tomar Objeto, escanear y Colocar",1.8
+Cerrar caja,A1B0G1 M1P1A1,Cerrar Objeto,3.24
+Tomar etiqueta y colocar en caja,A1G1A1P3,Tomar Objeto Y Colocar,2.16
+Escanear caja,A0B0G1 M1I1 ,Escanear Objeto,1.08
+Colocar caja en shipper,A1G1A1P3,Tomar Objeto Y Colocar,2.16
+Cerrar shipper,A0B0G1 M3,Tomar Objeto y Manipular,1.44
+Colocar tape,A1B0G1 A1B0P1 M3 A1B0P1,Colocar Objeto Sobre Algo,2.16
+Tomar etiqueta y pegar,A1B0G1 A1B0P1,Tomar Objeto Y Colocar,2.16
+Pegar etiquetas ,A1B0G1 A1B0P3 A1B0G1 A1B0P3,Colocar Objeto,3.24
+Tirar basura,A1G1A1P3,Tomar Objeto y Colocar,2.16
+Colocar shipper en tarima,A1B0G3 A6B3P1 A6,Tomar Objeto y Caminar,0.9
+Colocar separador de camas,A2B0G1 A1B3P3 A10,Tomar Objeto y Caminar,0.24
