@@ -1,4 +1,4 @@
-Descripcion del proceso,Cadena MOST,Category,Standard_Time
+Descripcion_del_proceso,Cadena MOST,Category,Standard_Time
 "Tomar radio , sacar de la bolsa y tirar basura",A1B0G1M3 A1,Sacar Objeto de bolsa,2.16
 Colocar radioboard en charola,A1B0G1 A1B0 A1B0P0,Colocar objeto sobre algo,1.44
 Empujar charola,A1B0G1 M1,Empujar Objeto,1.08
