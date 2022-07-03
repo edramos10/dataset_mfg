@@ -1,0 +1,199 @@
+Descripcion_del_proceso,Cadena MOST,Standard_Time
+"Tomar radio , sacar de la bolsa y tirar basura",A1B0G1M3 A1,2.16
+Colocar radioboard en charola,A1B0G1 A1B0 A1B0P0,1.44
+Empujar charola,A1B0G1 M1,1.08
+Ir a estacion thumbturn,A4,1.44
+Tomar paloma y colocar en nido,A1B0G1 A1B0P1,1.44
+"Tomar escutcheon, desenvolver y tirar basura",A1B0G1 A1B0 AB0P1,1.44
+Aplicar VICG,X20,2.16
+Colocar en nido,A1B0P1,0.72
+Tomar dos washas y colocarlas,A1B0G3 A1B0P3,2.88
+Accionar maquina,A1M1A1,1.44
+Regresar a posicion inicial,A6,2.16
+"Tomar escutcheon, realizar prueba funcional",A1B0G1 A1 M3,2.16
+Colocar escutcheon en charola,A1B0G1A1P3,2.16
+"Tomar escaner, escanear mainboard y radio",A1B0G1 M1I1 M1I1,0.72
+Dejar escaner,A1B0P1,0.36
+Colocar radio y mainboard en maquina,A0B0G1A1P3,1.08
+Accionar maquina,A1B0G1 M1 ,0.54
+Retirar Escudo,A1G1A1P3,1.08
+Empujar charola ,A0B0G1 M1 A1,0.54
+"Tomar escaner, escanear mainboard y radio",A1B0G1 M1I1 M1I1,0.72
+Dejar escaner,A1B0P1,0.36
+Colocar radio y mainboard en maquina,A0B0G1A1P3,1.08
+Accionar maquina,A1B0G1 M1 ,0.54
+Retirar Escudo,A1G1A1P3,1.08
+Empujar charola ,A0B0G1 M1 A1,0.54
+Tomar etiqueta y pegar en faceplate,A1G1A1P3,2.16
+Colocar en nido de maquina y accionar,A1B0P1 A0M1,1.08
+Tomar escutcheon y colocar en nido girando la pieza 180 grados,A1B0G1 A1B0P1 ,2.16
+Colocar en nido de maquina y accionar,A1B0P1 A0M1,1.08
+Tomar escutcheon y colocar en charola,A1B0G1 A1B0P1 ,1.44
+Tomar tornillo y desarmador,A1B0G3 A1,1.8
+"Atornillar backplate, dejar desarmador",P3F3 A1B0P0,2.52
+Voltear backplate,A1B0G1 M1,1.08
+"Tomar etiqueta de charola y colocar, tirar basura",A1B0G1 A1B0P3 ,2.16
+"Tomar paloma y washa, juntar",A1B0G1 A1B0P1,2.16
+Colocar en nido de maquina,A1B0P3,2.16
+Tomar escutcheon y colocar en nido,A1B0G1 A1B0P3,2.16
+Tomar washas y colocar en nido,A1B0G1 A1B0P3,2.16
+Accionar maquina,A1M1,0.72
+"Tomar escutcheon, realizar prueba funcional",A1B0G1 A1 M3,2.16
+Colocar en charola,A1B0P3,2.16
+Empujar charola,A1B0G3 M1 ,1.8
+Tomar motor girar cables y colocar,A1B0G1 A1B0P3 A1B0P3,3.6
+Tomar antidrill plate y colocar,A1B0G1 A1B0P3,2.16
+Tomar moving wall y colocar,A1B0G1 A1B0P3,2.16
+Tomar adaptor y colocar,A1B0G1 A1B0P3,2.16
+"Tomar cam y componente, juntar",A1B0G1 A1B0P3,2.16
+Tomar pin y spring y juntar,A1B0G1 A1B0P3 A1B0P3,3.6
+Juntar los cuatro componentes y colocar,A1G1P3,2.16
+Tomar harness y colocar,A1B0G1 A1B0P3,2.16
+Tomar backplate y colocar,A1B0G1 A1B0P3,2.16
+Tomar driver bar y colocar,A1B0G1 A1B0P3,2.16
+Tomar 4 tornillos y desarmador,A1B0G3A1,2.16
+"Atornillar, dejar desarmador",(P1F3 A1B0P0)4,3.6
+Empujar charola,A1B0G3 M1 ,2.16
+Tomar subensamble y Escanar,A3B0G3 M1I1,2.88
+Colocar en nido de maquina y conectar,A1B0P3 ,1.44
+Accionar maquina,A1M1,0.72
+Tomar subensamble y colocar en charola,A1B0G3 A1B0P3,2.88
+Empujar charola,A1P1,0.72
+Tomar subensamble y Escanar,A3B0G3 M1I1,2.88
+Colocar en nido de maquina y conectar,A1B0P3 ,1.44
+Cerrar safety guard,A1G1A1P1,1.44
+Abrir safety guard,A1G1A1P1,1.44
+Tomar subensamble y Colocar en Charola,A3B0G3 M1I1,2.88
+Jalar charola,A1B0G1 M1,1.08
+Tomar subensamble y Escanar,A3B0G3 M1I1,2.88
+Colocar en nido de maquina y conectar,A1B0P3 ,1.44
+Tomar subensamble y Colocar en Charola,A3B0G3 M1I1,2.88
+Jalar charola,A1B0G1 M1,1.08
+Colocar charola de empaque en la mesa,A1B0G1 A1B0P1,1.44
+Tomar pasadores y colocar en charola,A1B0G1 A1B0P1,1.44
+"Tomar accesorios, escanear y colocar en charola",A1B0G1 M1I1 A1B0P1,2.16
+"Tomar escutcheon interior, escanear ",A1B0G1 M1I1 A1B0P1,2.16
+"Colocar en bolsa, envolver y colocar en charola ",A1B0P3 G1 M1 A1,2.52
+"Tocar en pantalla dibujo acabado, dibujo acabado, palanca acabado y palanca acabado ",A2B0G8 A6B0P0,2.88
+"Tomar battery holder, escanear y colocar en charola",A1B0G1 M1I1 A1B0P1,2.16
+Tomar etiqueta y colocar en escutheon ,A1B0G1 A1B0P3,2.16
+Tomar escutcheon y juntar con battery holder,A1B0G1 A1B0P3,2.16
+Colocar en bolsa y envolver,A1B0P3 G1 M1 A1,2.52
+"Tomar ambas partes de cerradura y juntar, colocar en base",A1B0G1 A1B0P3 A1B0P1,2.88
+Llevar charola a estacion 1,A1B0G1 A6B0P1 A6,2.7
+"Tomar shipper, colocar en base y armar",A1B0G1 A1B0P1 M3,2.52
+Colocar tape,A1B0G1 A1B0P1 M3 ,2.52
+Voltear caja,A1B0G1 M1,1.08
+Tomar caja indivdual y colocar en riel,A1B0G1 A1 ,1.08
+Armar caja por ambos lados,A1B0G1 M6 A1P1,3.24
+Tomar base y colocar en caja,A1B0G1 M1 A1B0P1 M1,3.24
+"Tomar accesorios, escanear y colocar en caja",A1B0G1 M1I1 A1B0,1.8
+"Tomar instructivo, escanear y colocar en caja",A1B0G1 M1P1A1,1.8
+Cerrar caja,A1B0G1 M1P1A1,3.24
+Tomar etiqueta y colocar en caja,A1G1A1P3,2.16
+Escanear caja,A0B0G1 M1I1 ,1.08
+Colocar caja en shipper,A1G1A1P3,2.16
+Cerrar shipper,A0B0G1 M3,1.44
+Colocar tape,A1B0G1 A1B0P1 M3 A1B0P1,2.16
+Tomar etiqueta y pegar,A1B0G1 A1B0P1,2.16
+Pegar etiquetas ,A1B0G1 A1B0P3 A1B0G1 A1B0P3,3.24
+Tirar basura,A1G1A1P3,2.16
+Colocar shipper en tarima,A1B0G3 A6B3P1 A6,0.9
+Colocar separador de camas,A2B0G1 A1B3P3 A10,0.24
+Tomar charola thermoform y colocar sobre la mesa,A1G1M3A1P1,2.82
+Tomar caja de accesorios y scannear ,A1G1A1I3M1X3I1,4.44
+Colocar la caja de accesorios sobre la charola thermoform.,A1G1P1,1.21
+Armar paloma,A1B0G1 A1 M3I3,0.91
+Voltearla y armar, M3 A1,0.4
+Dejarla en riel,A1B0P1 A1,0.3
+Dejarla en empaque final,A3B0G3 A3B0P1,0.34
+Escanear tray label,A1G1 M1X1I1 A1,0.2
+Colocar tray en base de etiquetas,A1G1P1,0.1
+Colocar cambios de orden,A1P1 A1,0.1
+Ir a carro de kiteo por kits,A3X3G3A3P3,0.06
+Colocar caja de prekits en estacion inicial,A3G1M1 A10P1,0.06
+Tirar y abrir caja de kits,A1G1A6 P1A6 G1A1G1 A1M3*4  A1P1G3M3P1,0.17
+Relleno de thermoform,A1B3G3A1P3,0.04
+"Tomar pasador y backplate, colocar",A1B0G1 A1B0P1,1.61
+Tomar faceplate y colocar,A1B0G1 A1B0P1,1.61
+Colocar en nido de maquina,A1B0P1,0.81
+Tomar manijo,A1B0G1,0.81
+Accionar,M1X1M1,1.21
+Tomar pasador  ,A1B0G1 A1B0,1.21
+Realizar prueba funcional,A1G1M1X1,1.61
+Colocar pasador en thermoform,A1B0P1,0.81
+Tomar cup y colocar cup en el pasador,I1M1P1,1.21
+Colocar en (base para kamban de pasador,A1P1,0.81
+Setup de faceplate,B3G3B3A1P3,0.02
+Abrir caja de pasador,A1G3M3*2,0.03
+Setup de backplate,B3G3B3A1P3,0.03
+Tomar Instructivo y colocar en la bolsa,A1G1A1P3,2.16
+Tomar roseta int  alinear y colocar en chassis,A1G1A1I1M1i1,2.42
+Colocar ensamble en charola termoformable,A1P1,0.81
+Tomar roseta ext y colocar en chassis,A1G1A1I1P1M1,2.42
+Tomar ensamble de pasador con cup,A1G3A1,2.02
+ Unir chasis exterior con el  pasador y firecup,I3P1M1,2.02
+Colocar ensamble en charola termoformable y deslizar charola,A1P1 ,0.81
+Coloca separador en mesa de trabajo CADA 4 PIEZAS,A1G1,0.2
+Setup de chasis exterior,B3G3B3A1P3,0.17
+Setup de chasis interior ,B3G3B3A1P3,0.1
+Sale a carro de kiteo por rosetas,A24B6G3P6,0.16
+Abrir caja de rosetas,A0G1M1X1I1A1,0.01
+Tomar chassis interior y colocar en el nido de la maquina,A1G1A1I1,1.61
+"Tomar perilla int  y colocar en chassis, alinear orifico al catch del chassis",A1G1A1,1.21
+Introducir nido a la prensa (Activar prensa),A1PI,0.81
+Prensado,X6,2.42
+Sacar nido ,M1,0.4
+Tomar chassis int y remover de fixtura,A1G1A1,1.21
+Tomar ensamble y realzar prueba de sticky/wobble,A1G3 M1X1I1,2.52
+Tomar exterior y unir con ensamble interior,A1G1A1I1P1,2.02
+ Colocar ensamble en charola termoformable y deslizar charola,A1P1 M1,1.21
+Sale a carro de kiteo por palancas,A16B6G3P6,0.19
+Abrir caja de palancas,A0G1M1X1I1A1,0.02
+"Tomar paquete de cilindro, abrir bolsa y colocar en contenedor",A1G1A1M3M1A1P1,0.91
+"Tomar Cilindro, remover llave ",A1G1M*2,1.61
+Tomar cerradura y colocar en fixtura,A1G1A1  P3,2.42
+Colocar el cilindro en la perilla ext,A1I1P1M1,1.61
+Tomar llave e insertar en el cilindro ya ensamblado,A1P1M1*2,1.61
+Ensamblar perilla ext en chassis,A1I1P1,1.21
+Girar la llave en el cilindro y removerla,A0G1M1*2,1.21
+"tomar cerradura de fixtura y colocar en charola vispack, deslizar charola",A1G1A1 P1M1,2.02
+Sale a carro de kiteo por cilindros,A16B6G3P6,0.19
+Sale a carro de quiteo por palancas,A16B6G3P6,0.19
+Abrir caja de palancas,A0G1M1X1I1A1,0.02
+Abrir caja de cilindros,A0G1M1X1I1A1,0.02
+Tomar cerradura y colocar en fixtura,A1G1A1  P1,1.61
+Girar llave y accionar palanca/ perilla exterior hacia ambos lados , M1 F3 ,2.88
+Colocar llave EN EL POCKET charola vispack,A1P1,0.81
+Girar fixtura para  realizar prueba funcional del lado interior,A1M1 I1A1,2.88
+"Limpiar con guante blanco los acabados 605,625,505",S6,2.42
+Colocar cerradura en charola vispack,A1P1 M1,1.21
+Cierra cerradura colocandole thermoform,A1P3,1.61
+Bajar thermoform de punto de uso,A1B3G3A1P3,0.06
+Tomar tapa del termoformado y colocar sobre la base,A1G1M1*2A1P1M1,2.82
+"Tomar caja individual, preformar",A1G1A1M1A1P1,2.42
+Colocar termoformado dentro de la caja individual,A1G1A1I1P1M1,2.42
+Cerrar caja individual,A1G1A1,1.21
+Tomar paquete de etiquetas en el soporte,A1G1A1M1,0.2
+Tomar etiqueta de modelo y colocar en la caja,A1G1A1P1,1.61
+Dejar paquete aun lado de la mesa,A1P1,0.81
+Toma tira y pega etiqueta de descripcion en bosh,A1G1A1P3M1A1P1,0.45
+Subir caja de carton vispack,B3G3B3P3,0.07
+Abrir caja de carton ,A1G3M3*2,0.06
+Quitar separador en mesa de trabajo CADA 4 PIEZAS,A1G1,0.2
+Tomar carton base y preformar,A1G1A1M1M3M1P1,0.91
+Tomar etiqueta  y colocar en el carton base,A1G1M1A1P1,0.5
+Tomar paquete de etiquetas en el soporte,A1G1A1M1,0.2
+Escanear etiqueta de serie y colocar en la base de la caja individual,X1A1P1*2,1.61
+Tomar paquete,A1G1A1,1.21
+Colocar paquete en carton base,A1P1,0.81
+Tomar carton cover multipack y colocar en carton base,A1G1A1M1P1,0.5
+Doblar pesta?as ,A1G1M1,0.3
+Tomar dispensador de tape,A1G1A1,0.3
+ Colocar una tira de tape para cerrar caja,P1M3A1,0.5
+Voltear caja multipack,A1G1M3P1,0.6
+ Colocar dos tiras de tape para cerrar caja,(P1M3A1)*2,1.01
+Dejar dispensador de tape a un lado,A1P1,0.2
+Voltear caja multipack,A1G1M3P1,0.6
+Tomar etiqueta de empaque y colocar en el carton,A1G1M1A1P1,0.5
+Llevar multipack a la tarima,A3G3A6I3P3A6,2.42
