@@ -1,4 +1,4 @@
-Descripcion_del_proceso,Cadena_MOST,Standard_Time
+text,Cadena_MOST,label
 "Tomar radio , sacar de la bolsa y tirar basura",A1B0G1M3 A1,2.2
 Colocar radioboard en charola,A1B0G1 A1B0 A1B0P0,1.4
 Empujar charola,A1B0G1 M1,1.1
